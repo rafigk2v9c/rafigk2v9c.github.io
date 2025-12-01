@@ -1,20 +1,20 @@
 ---
 layout: post
-title: "CraxsRat: Android RAT proqramına texniki baxiş."
+pin: false
+title: "CraxsRat: Android RAT proqramına texniki baxiş"
 author: rafok2v9c
-categories: [RemoteAccessTrojan]
-tags: [rat, apk, reverseengineering, malware]
+categories: [AZ]
+tags: [RAT, Malware, Reverse Engineering ]
 media_subpath: /images/trojan_craxsrat
 image:
   path: craxsratlogo.webp
 ---
 
+## Analiz
+
 Hal-hazırda ən çox istifadə olunan Android RAT-lar suriyalı təhdid aktoru olan EvLFDevZ-ə aiddir və CraxsRat da onun proqramlaşdırdığı bir RAT-dır.
 Sayt bağlı olsa da, Wayback Machine vasitəsilə sayta baxmaq mümkündür. RAT bu saytda reklam olunur və Telegram üzərindən satılır. Sol tərəfdə RAT-ın funksiyaları görünür. 
 
-## Analiz
-
-### Başlanğıc
 
 ![Web 80 Index](1.webp){: width="800" height="550"}
 
@@ -150,6 +150,4 @@ Qısacası, bu kod bizim işimizi çətinləşdirdi, amma biz yenə də IP və p
 
 Bu məqalədə CraxsRatın və onun yaratdığı zərərli APK faylını analiz edərək C2 serverinin IP və portunu tapmağa çalışdıq.
 
-Oxuduğunuz üçün təşəkkür edirəm. Əgər hər hansı bir fikriniz olsa, və ya haradasa səhvlik etdiyimi düşünsəniz LinkedIn üzərindən mənimlə əlaqə keçə bilərsiniz.
-
-
+Oxuduğunuz üçün təşəkkür edirəm. Əgər hər hansı bir fikriniz olsa, və ya haradasa səhvlik etdiyimi düşünsəniz Instagram üzərindən mənimlə əlaqə keçə bilərsiniz.
