@@ -49,7 +49,7 @@ Run anyway deyərək dəvam edirik və *Analyze!* düyməsinə klik edirik bizd�
 
 **Another APK**- Başqa bir apk faylı seçmək üçün
 
-**Guide**- Proqramın mecə istifadə olunacaqı haqqında bir sıra məlumatlar
+**Guide**- Proqramın necə istifadə olunacaqı haqqında bir sıra məlumatlar
 
 **About**- Proqram haqqında (Yazarlar, Dil)
 

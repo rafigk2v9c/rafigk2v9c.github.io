@@ -8,7 +8,8 @@ tags: [Software]
 media_subpath: /images/software_apkdevastate
 image:
   path: 11.jpg
---- 
+---
+**Translated from Azerbaijani. Translation errors may exist!**
 
 ## APKdevastate
 
