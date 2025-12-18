@@ -4,7 +4,7 @@ pin: false
 title: "Tetrix: Oyun Tərsinə Mühəndisliyi"
 author: rafok2v9c
 categories: [AZ]
-tags: [Reverse Engineering]
+tags: [Reverse Engineering, CTF]
 media_subpath: /images/tetrix_game
 image:
   path: Screenshot_4.png
